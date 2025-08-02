@@ -22,6 +22,13 @@ A modern, responsive SaaS landing page built using **HTML**, **CSS**, and **vani
 - CSS3 (Flexbox + Media Queries)
 - JavaScript (Vanilla)
 
-## 🖼️ How to Add Preview Image (if not using images folder)
 
-Place your image directly in the root of the repo and name it:
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [Abbas Devloper](https://github.com/Abbas-Devloper)
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
